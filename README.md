@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @govgandhi
 - 👀 I’m interested in Roses are red
 - 🌱 I’m currently learning Violets are blue
-- 💞️ I’m looking to collaborate on If you think I'm finishing my bio
+- 💞️ I’m looking to collaborate on If you think I'm filling my bio
 - 📫 How to reach me Then you must be a fool.
 
 <!---
